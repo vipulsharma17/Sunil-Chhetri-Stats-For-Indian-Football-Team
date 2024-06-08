@@ -1,0 +1,152 @@
+CAP,GOALS,DATE,VENUE,OPPONENT,SCORE,COMPETITION
+1,1,12-6-05,Quetta,Pakistan,1-1,Friendly
+2,0,16-6-05,Peshawar,Pakistan,1-0,Friendly
+3,0,18- 6-05,Lahore,Pakistan,0-3,Friendly
+4,0,12-8-05,Lautoka,Fiji,0-1,Friendly
+5,0,14-8-05,Suva,Fiji,1-2,Friendly
+6,0,15-11-06,Sana'a,Yemen,1-2,Asian Cup Qualifier
+7,2,17-8-07,New Delhi,Cambodia,6-0,Nehru Cup
+8,0,20-8-07,New Delhi,Bangladesh,1-0,Nehru Cup
+9,1,23-8-07,New Delhi,Syria,2-3,Nehru Cup
+10,1,26-8-07,New Delhi,Kyrgyzstan,3-0,Nehru Cup
+11,0,29-8-07,New Delhi,Syria,1-0,Nehru Cup
+12,1,08-10-07,Sidon,Lebanon,1-4,World Cup Qualifier
+13,1,30-12-07,Margao,Lebanon,2-2,World Cup Qualifier
+14,1,24-5-08,New Delhi,Taiwan,3-0,Friendly
+15,1,27-5-08,New Delhi,Taiwan,2-2,Friendly
+16,1,2-6-08,Malé,Nepal,4-0,SAFF Cup
+17,0,5-6-08,Malé,Pakistan,2-1,SAFF Cup
+18,0,7-6-08,Malé,Maldives,1-0,SAFF Cup
+19,1,11-6-08,Malé,Bhutan,2-1,SAFF Cup
+20,0,14-6-08,Malé,Maldives,0-1,SAFF Cup
+21,0,22-7-08,Hyderabad,Malaysia,1-1,Friendly
+22,0,30-7-08,Hyderabad,Afghanistan,1-0,AFC Challenge Cup
+23,0,1-8-08,Hyderabad,Tajikistan,1-1,AFC Challenge Cup
+24,0,3-8-08,Hyderabad,Turkmenistan,2-1,AFC Challenge Cup
+25,1,7-8-08,Hyderabad,Myanmar,1-0,AFC Challenge Cup
+26,3,13-8-08,New Delhi,Tajikistan,4-1,AFC Challenge Cup
+27,0,14-1-09,Hongkong,Hongkong,1-2,Friendly
+28,0,19-8-09,New Delhi,Lebanon,0-1,Nehru Cup
+29,1,23-8-09,New Delhi,Kyrgyzstan,2-1,Nehru Cup
+30,0,26-8-09,New Delhi,Sri Lanka,3-1,Nehru Cup
+31,0,29-8-09,New Delhi,Syria,0-1,Nehru Cup
+32,0,31-8-09,New Delhi,Syria,1-1,Nehru Cup
+33,0,4-9-10,Bangkok,Thailand,0-1,Friendly
+34,0,8-9-10,New Delhi,Thailand,1-2,Friendly
+35,0,15-9-10,New Delhi,Namibia,2-0,Friendly
+36,0,4-10-10,Pune,Hongkong,0-1,Friendly
+37,3,8-10-10,Pune,Vietnam,3-1,Friendly
+38,0,13-10-10,Pune,Yemen,3-6,Friendly
+39,0,10-1-11,Doha,Australia,0-4,AFC Asian Cup
+40,1,14-1-11,Doha,Bahrain,2-5,AFC Asian Cup
+41,1,18-1-11,Doha,South Korea,1-4,AFC Asian Cup
+42,1,21-3-11,Petaling Jaya,Taiwan,3-0,AFC Cup Qualfier
+43,0,23-3-11,Petaling Jaya,Pakistan,3-1,AFC Cup Qualfier
+44,1,10-7-11,Malé,Maldives,1-1,Friendly
+45,0,23-7-11,Al-Ain,UA Emirates,0-3,World Cup Qualifier
+46,0,28-7-11,New Delhi,UA Emirates,2-2,World Cup Qualifier
+47,0,21-8-11,Port of Spain,Trinidad/Tobago,0-3,Friendly
+48,0,24-8-11,Providence,Guyana,1-2,Friendly
+49,0,13-11-11,Guwahati,Malaysia,1-1,Friendly
+50,2,16-11-11,Calcutta,Malaysia,3-2,Friendly
+51,1,3-12-11,New Delhi,Afghanistan,1-1,SAFF Cup
+52,2,5-12-11,New Delhi,Bhutan,5-0,SAFF Cup
+53,1,7-12-11,New Delhi,Sri Lanka,3-0,SAFF Cup
+54,2,9-12-11,New Delhi,Maldives,3-1,SAFF Cup
+55,1,11-12-11,New Delhi,Afghanistan,4-0,SAFF Cup
+56,0,9-3-12,Kathmandu,Tajikistan,0-2,AFC Challenge Cup
+57,0,11-3-12,Kathmandu,Philippines,0-2,AFC Challenge Cup
+58,0,13-3-12,Kathmandu,North Korea,0-4,AFC Challenge Cup
+59,1,22-8-12,New Delhi,Syria,2-1,Nehru Cup
+60,2,25-8-12,New Delhi,Maldives,3-0,Nehru Cup
+61,0,28-8-12,New Delhi,Nepal,0-0,Nehru Cup
+62,1,2-9-12,New Delhi,Cameroon,2-2,Nehru Cup
+63,0,16-10-12,Singapore,Singapore,0-2,Friendly
+64,0,6-2-13,Kochi,Palestine,2-4,Friendly
+65,0,2-3-13,Yangon,Taiwan,2-1,AFC Cup Qualfier
+66,2,4-3-13,Yangon,Guam,4-0,AFC Cup Qualfier
+67,0,6-3-13,Yangon,Myanmar,0-1,AFC Cup Qualfier
+68,0,14-8-13,Hujand,Tajikistan,0-3,Friendly
+69,0,1-9-13,Kathmandu,Pakistan,1-0,SAFF Cup
+70,1,3-9-13,Kathmandu,Bangladesh,1-1,SAFF Cup
+71,0,5-9-13,Kathmandu,Nepal,1-2,SAFF Cup
+72,0,11-9-13,Kathmandu,Afghanistan,0-2,SAFF Cup
+73,1,15-11-13,New Delhi,Philippines,1-1,Friendly
+74,1,19-11-13,Siliguri,Nepal,2-0,Friendly
+75,2,5-3-14,Goa,Bangladesh,2-2,Friendly
+76,1,6-10-14,Siliguri,Palestine,2-3,Friendly
+77,2,12-3-15,Guwahati,Nepal,2-0,World Cup Qualifier
+78,0,17-3-15,Kathmandu,Nepal,0-0,World Cup Qualifier
+79,1,11-6-15,Bangalore,Oman,1-2,World Cup Qualifier
+80,1,16-6-15,Harmon,Guam,1-2,World Cup Qualifier
+81,0,31-8-15,Pune,Nepal,0-0,Friendly
+82,0,8-9-15,Bangalore,Iran,0-3,World Cup Qualifier
+83,0,8-10-15,Ashgabat,Turkmenistan,1-2,World Cup Qualifier
+84,0,13-10-15,Muscat,Oman,0-3,World Cup Qualifier
+85,0,12-11-15,Bangalore,Guam,1-0,World Cup Qualifier
+86,0,25-12-15,Kariavattom,Sri Lanka,2-0,SAFF Cup
+87,1,27-12-15,Kariavattom,Nepal,4-1,SAFF Cup
+88,1,31-12-15,Kariavattom,Maldives,3-2,SAFF Cup
+89,1,3-1-16,Kariavattom,Afghanistan,2-1,SAFF Cup
+90,0,2-6-16,Vientiane,Laos,1-0,Asian Cup Qualifier
+91,0,7-6-16,Guwahati,Laos,6-1,Asian Cup Qualifier
+92,1,3-9-16,Mumbai,Puerto Rico,4-1,Friendly
+93,1,22-3-17,Phnom Penh,Cambodia,3-2,Friendly
+94,1,28-3-17,Yangon,Myanmar,1-0,Asian Cup Qualifier
+95,1,13-6-17,Bangalore,Kyrgyzstan,1-0,Asian Cup Qualifier
+96,0,5-9-17,Taipa,Macao,2-0,Asian Cup Qualifier
+97,1,11-10-17,Bangalore,Macao,4-1,Asian Cup Qualifier
+98,1,13-11-17,Margao,Myanmar,2-2,Asian Cup Qualifier
+99,3,1-6-18,Mumbai,Taiwan,5-0,HERO Cup
+100,2,4-6-18,Mumbai,Kenya,3-0,HERO Cup
+101,1,7-6-18,Mumbai,New Zealand,1-2,HERO Cup
+102,2,10-6-18,Mumbai,Kenya,2-0,HERO Cup
+103,0,13-10-18,Suzhou,China,0-0,Friendly
+104,0,27-12-18,Abu Dhabi,Oman,0-0,Friendly
+105,2,6-1-19,Abu Dhabi,Thailand,4-1,AFC Asian Cup
+106,0,10-1-19,Abu Dhabi,UA Emirates,0-2,AFC Asian Cup
+107,0,14-1-19,Sharjah,Bahrain,0-1,AFC Asian Cup
+108,1,5-6-19,Buriram,Curaçao,1-3,King's Cup
+109,2,8-7-19,Ahmedabad,Tajikistan,2-4,HERO Cup
+110,1,13-7-19,Ahmedabad,North Korea,2-5,HERO Cup
+111,0,16-7-19,Ahmedabad,Syria,1-1,HERO Cup
+112,1,5-9-19,Guwahati,Oman,1-2,World Cup Qualifier
+113,0,15-10-19,Kolkata,Bangladesh,1-1,World Cup Qualifier
+114,0,14-11-19,Dushanbe,Afghanistan,1-1,World Cup Qualifier
+115,0,19-11-19,Muscat,Oman,0-1,World Cup Qualifier
+116,0,3-6-21,Doha,Qatar,0-1,World Cup Qualifier
+117,2,7-6-21,Doha,Bangladesh,2-0,World Cup Qualifier
+118,0,15-6-21,Doha,Afghanistan,1-1,World Cup Qualifier
+119,0,2-9-21,Kathmandu,Nepal,1-1,Friendly
+120,1,5-9-21,Kathmandu,Nepal,2-1,Friendly
+121,1,4-10-21,Malé,Bangladesh,1-1,SAFF Cup
+122,0,7-10-21,Malé,Sri Lanka,0-0,SAFF Cup
+123,1,10-10-21,Malé,Nepal,1-0,SAFF Cup
+124,2,13-10-21,Malé,Maldives,3-1,SAFF Cup
+125,1,16-10-21,Malé,Nepal,1-0,SAFF Cup
+126,0,28-5-22,Doha,Jordan,0-2,Friendly
+127,2,8-6-22,Kolkata,Cambodia,2-0,Asian Cup Qualifier
+128,1,11-6-22,Kolkata,Afghanistan,2-1,Asian Cup Qualifier
+129,1,14-6-22,Kolkata,Hongkong,4-0,Asian Cup Qualifier
+130,0,24-9-22,TP Ho Chi Minh,Singapore,1-1,Hung Thinh Cup
+131,0,27-9-22,TP Ho Chi Minh,Vietnam,0-3,Hung Thinh Cup
+132,0,22-3-23,Imphal,Myanmar,1-0,HERO Cup
+133,1,28-3-23,Imphal,Kyrgyzstan,2-0,HERO Cup
+134,0,9-6-23,Bhubaneswar,Mongolia,2-0,HERO Cup
+135,1,12-6-23,Bhubaneswar,Vanuatu,1-0,HERO Cup
+136,0,15-6-23,Bhubaneswar,Lebanon,0-0,HERO Cup
+137,1,18-6-23,Bhubaneswar,Lebanon,2-0,HERO Cup
+138,3,21-6-23,Bengaluru,Pakistan,4-0,SAFF Cup
+139,1,24-6-23,Bengaluru,Nepal,2-0,SAFF Cup
+140,1,27-6-23,Bengaluru,Kuwait,1-1,SAFF Cup
+141,0,1-7-23,Bengaluru,Lebanon,0-0,SAFF Cup
+142,0,4-7-23,Bengaluru,Kuwait,1-1,SAFF Cup
+143,1,13-10-23,Kuala Lumpur,Malaysia,2-4,Friendly
+144,0,16-11-23,Kuwait City,Kuwait,1-0,World Cup Qualifier
+145,0,21-11-23,Bhubaneswar,Qatar,0-3,World Cup Qualifier
+146,0,13-1-24,Al-Rayyan,Australia,0-2,AFC Asian Cup
+147,0,18-1-24,Al-Rayyan,Uzbekistan,0-3,AFC Asian Cup
+148,0,23-1-24,Al-Khor,Syria,0-1,AFC Asian Cup
+149,0,22-3-2024,Abha,Afghanistan,0-0,World Cup Qualifier
+150,1,26-3-2024,Guwahati,afghanistan,1-2,World Cup Qualifier
+151,0,6-6-2024,Kolkata,Kuwait,0-0,World Cup Qualifier
